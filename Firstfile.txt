@@ -1,6 +1,7 @@
 Good Morning,
 This is my first git file.
 I started learning git through Telusuko and it is a great platform for learning.
-Navin reddy explains well, it is easy to understand
+Navin reddy explains well, it is easy to understand.
+I loved it.
 
 submit data to the database
